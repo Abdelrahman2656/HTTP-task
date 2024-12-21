@@ -1,0 +1,30 @@
+[
+    {
+        "name": "ali ahmed  ",
+        "email": "ali123ahmed@gmail.com",
+        "password": 1234,
+        "departmentId": 1,
+        "id": 1
+    },
+    {
+        "name": "ali ahmed  ",
+        "email": "ali123ahmed@gmail.com",
+        "password": 1234,
+        "departmentId": 2,
+        "id": 2
+    },
+    {
+        "name": "ali ahmed ",
+        "email": "ali123ahmed@gmail.com",
+        "password": 1234,
+        "departmentId": 3,
+        "id": 3
+    },
+    {
+        "name": "ali ahmed uyiyiyiu ",
+        "email": "ali123ahmed@gmail.com",
+        "password": 1234,
+        "departmentId": 4,
+        "id": 4
+    }
+]
